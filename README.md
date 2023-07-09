@@ -6,4 +6,4 @@ Make a VBA script to analyze generated stock market data.
 1. Created a script that loops through all the stocks for one year and outputs the ticker symbol, yearly change, percent change, and total stock volume
 2. Added functionality to script to return with Greatest % increase, Greatest % Decrease, and greatest total volume.
 # Credits
-Tutor Marc Calache guided me to line 75 in my code.
+Tutor Marc Calache guided me to line 75 in my code and line 63
